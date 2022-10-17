@@ -1,0 +1,9 @@
+# SPDX-FileCopyrightText: 2022-present Didier Malenfant <coding@malenfant.net>
+#
+# SPDX-License-Identifier: MIT
+
+[AnimatedSprite]
+url = "https://github.com/Whitebrim/AnimatedSprite"
+description = "Sprite class extension with imagetable animation and finite state machine support for Playdate."
+author = "Whitebrim <deni7off@yandex.ru>"
+license = "MIT"

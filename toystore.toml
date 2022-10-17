@@ -7,3 +7,9 @@ url = "https://github.com/Whitebrim/AnimatedSprite"
 description = "Sprite class extension with imagetable animation and finite state machine support for Playdate."
 author = "Whitebrim <deni7off@yandex.ru>"
 license = "MIT"
+
+[Aspen]
+url = "https://github.com/DidierMalenfant/Aspen"
+description = "A Simple Platformer ENgine for the Playdate."
+author = "Didier Malenfant <coding@malenfant.net>"
+license = "MIT"

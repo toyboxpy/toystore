@@ -19,3 +19,9 @@ url = "https://github.com/DidierMalenfant/pdbase"
 description = "The playdate.update() manager."
 author = "Didier Malenfant <coding@malenfant.net>"
 license = "MIT"
+
+[Plupdate]
+url = "https://github.com/DidierMalenfant/Plupdate"
+description = "The playdate.update() manager."
+author = "Didier Malenfant <coding@malenfant.net>"
+license = "MIT"

@@ -25,3 +25,8 @@ url = "https://github.com/DidierMalenfant/Plupdate"
 description = "The playdate.update() manager."
 author = "Didier Malenfant <coding@malenfant.net>"
 license = "MIT"
+
+[PlaydateLDtkImporter]
+url = "https://github.com/NicMagnier/PlaydateLDtkImporter"
+descriptions = "Load tilemaps created with LDtk in your playdate games."
+author = Nic Magnier

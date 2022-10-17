@@ -35,3 +35,9 @@ author = Nic Magnier
 url = "https://github.com/NicMagnier/PlaydateSequence"
 description = "Create animations with simple sequences of easing functions in your playdate game."
 author = Nic Magnier
+
+[TiledUp]
+url = "https://github.com/DidierMalenfant/TiledUp"
+description = "A Playdate toybox which lets you import and use Tiled levels."
+author = "Didier Malenfant <coding@malenfant.net>"
+license = "MIT"

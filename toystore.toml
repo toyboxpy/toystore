@@ -25,6 +25,12 @@ description = "Handy utility functions and SDK additions."
 author = "Didier Malenfant <coding@malenfant.net>"
 license = "MIT"
 
+[playbox2d]
+url = "https://github.com/DidierMalenfant/playbox2d"
+description = "A port of box2d lite from Erin Catto (http://www.gphysics.com)."
+author = "Dustin Mierau <https://github.com/mierau>"
+license = "MIT"
+
 [Plupdate]
 url = "https://github.com/DidierMalenfant/Plupdate"
 description = "The playdate.update() manager."

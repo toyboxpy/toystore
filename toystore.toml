@@ -21,7 +21,7 @@ author = "Nic Magnier"
 
 [pdbase]
 url = "https://github.com/DidierMalenfant/pdbase"
-description = "The playdate.update() manager."
+description = "Handy utility functions and SDK additions."
 author = "Didier Malenfant <coding@malenfant.net>"
 license = "MIT"
 

@@ -14,6 +14,11 @@ description = "A Simple Platformer ENgine for the Playdate."
 author = "Didier Malenfant <coding@malenfant.net>"
 license = "MIT"
 
+[LDtkImporter]
+url = "https://github.com/NicMagnier/PlaydateLDtkImporter"
+descriptions = "Load tilemaps created with LDtk in your playdate games."
+author = "Nic Magnier"
+
 [pdbase]
 url = "https://github.com/DidierMalenfant/pdbase"
 description = "The playdate.update() manager."
@@ -26,12 +31,7 @@ description = "The playdate.update() manager."
 author = "Didier Malenfant <coding@malenfant.net>"
 license = "MIT"
 
-[PlaydateLDtkImporter]
-url = "https://github.com/NicMagnier/PlaydateLDtkImporter"
-descriptions = "Load tilemaps created with LDtk in your playdate games."
-author = "Nic Magnier"
-
-[PlaydateSequence]
+[Sequence]
 url = "https://github.com/NicMagnier/PlaydateSequence"
 description = "Create animations with simple sequences of easing functions in your playdate game."
 author = "Nic Magnier"

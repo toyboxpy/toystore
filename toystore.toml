@@ -49,6 +49,11 @@ description = "The playdate.update() manager."
 author = "Didier Malenfant <coding@malenfant.net>"
 license = "MIT"
 
+[RobkohrFont]
+url = "https://github.com/RobKohr/robkohr-mono-5x8-font-for-playdate"
+description = "A 5x8 font that is readable & monospaced without it looking too boring."
+author = "Rob Kohr <spam@robkohr.com>"
+
 [Sequence]
 url = "https://github.com/NicMagnier/PlaydateSequence"
 description = "Create animations with simple sequences of easing functions in your playdate game."

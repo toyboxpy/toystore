@@ -16,12 +16,12 @@ license = "MIT"
 
 [LDtkImporter]
 url = "https://github.com/NicMagnier/PlaydateLDtkImporter"
-descriptions = "Load tilemaps created with LDtk in your playdate games."
+description = "Load tilemaps created with LDtk in your playdate games."
 author = "Nic Magnier"
 
 [librif]
 url = "https://github.com/risolvipro/librif"
-descriptions = "A lightweight library to encode and read grayscale images."
+description = "A lightweight library to encode and read grayscale images."
 author = "Risolvi Productions <https://github.com/risolvipro>"
 license = "MIT"
 

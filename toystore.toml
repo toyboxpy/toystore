@@ -14,6 +14,13 @@ description = "A Simple Platformer ENgine for the Playdate."
 author = "Didier Malenfant <coding@malenfant.net>"
 license = "MIT"
 
+[GFXP]
+url = "https://github.com/ivansergeev/gfxp"
+site = "https://dev.playdate.store/tools/gfxp/"
+description = "GFXP is a small library with a collection of patterns for Panic Playdate console."
+author = "Ivan Sergeev <ivansergeev@gmail.com>"
+license = "MIT"
+
 [LDtkImporter]
 url = "https://github.com/NicMagnier/PlaydateLDtkImporter"
 description = "Load tilemaps created with LDtk in your playdate games."
